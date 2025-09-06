@@ -2,3 +2,4 @@
 chromadb/chroma:1.0.21.dev19
 # nacos
 nacos/nacos-server
+minio/minio
