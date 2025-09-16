@@ -5,3 +5,5 @@ chromadb/chroma:0.6.4.dev441
 # nacos
 nacos/nacos-server
 minio/minio
+chromadb/chroma:0.5.15
+
