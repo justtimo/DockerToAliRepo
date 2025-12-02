@@ -11,3 +11,4 @@ milvusdb/milvus:v2.6.2
 #uay.io/coreos/etcd:v3.5.18
 #minio/minio:RELEASE.2024-12-18T13-15-44Z
 gitlab/gitlab-ee:latest
+postgres:16.11
