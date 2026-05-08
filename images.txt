@@ -19,3 +19,6 @@ getmeili/meilisearch:latest
 
 redis/redis-stack:7.4.0-v8
 redislabs/redisearch:2.8.8
+
+pgvector/pgvector:pg18-trixie
+pgvector/pgvector:pg16-trixie
